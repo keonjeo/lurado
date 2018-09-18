@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'lurado'
+puts Lurado.hi(ARGV[0])

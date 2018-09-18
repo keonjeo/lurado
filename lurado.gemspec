@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.authors             = ["Staven Vanderbilt"]
   s.email               = 'staven.vanderbilt@gmail.com'
   s.files               = ["bin/lurado", "lib/lurado.rb", "lib/lurado/translator.rb"]
-  s.homepage            = 'https://github.com/keonjeo/devbox/'
+  s.homepage            = 'https://github.com/keonjeo/lurado/'
   s.license             = 'MIT'
 end
